@@ -1,0 +1,16 @@
+{
+  "name": "ss-moniter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "baedorazy",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
